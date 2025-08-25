@@ -1,51 +1,57 @@
-# CPI-Inflation-Analysis
-CPI and food inflation analysis with COVID-19 impact and correlations with crude oil prices
+# 📊 CPI-Based Inflation Analysis
+
+An in-depth analysis of Consumer Price Index (CPI) and food inflation trends in India (2018–2023), with a focus on COVID-19 disruptions and correlations with global crude oil prices.
 
 ---
 
-## Data Cleaning & Preparation
-- Handled missing values using a **moving average imputation** to maintain gradual trends in consumer prices.  
-- Dataset includes **CPI category-level and sub-category data** from 2018–2023.  
-- Cleaned data was used for visualization, trend analysis, and correlation studies.  
+## 🧹 Data Cleaning & Preparation
+
+- Cleaned time-series CPI dataset using **moving average imputation** to preserve gradual pricing trends.
+- Dataset includes **category-level and sub-category CPI data** from 2018 to 2023.
+- Prepared data for trend analysis, visualization, and correlation studies.
 
 ---
 
-## Objectives & Key Findings
+## 🎯 Objectives & Key Findings
 
-### Objective 1: Top-Contributing Category to CPI (May 2023)
-- **Food and Beverages** had the highest contribution.  
-- Within this category, **Spices** saw the sharpest rise, indicating **price shocks or supply issues**.  
-- **Transport and Fuel** contributed the least.  
+### ✅ Objective 1: Top-Contributing Category to CPI (May 2023)
+- **Food and Beverages** had the highest CPI contribution.
+- Within this, **Spices** saw the sharpest rise—suggesting price shocks or supply issues.
+- **Transport and Fuel** contributed the least.
 
-### Objective 2: Inflation Trends (2018–2023)
-- Inflation stable in 2018–2019.  
-- Spike in 2020 linked to **COVID-19 disruptions**.  
-- Peak in 2022 due to **global supply chain disruptions** and pandemic aftermath.  
+### ✅ Objective 2: Inflation Trends (2018–2023)
+- Stable inflation in **2018–2019**.
+- Spike in **2020** linked to early COVID-19 disruptions.
+- Peak in **2022** driven by global supply chain issues and the Russia-Ukraine conflict.
 
-### Objective 3: Month-on-Month Food Inflation (June 2022 – May 2023)
-- **June 2022:** Highest spike (eggs & vegetables).  
-- **July–August:** Sharp drop due to falling meat, fish, and oils prices.  
-- **October–December:** Continued decline, particularly vegetables and oils.  
-- **February 2023:** Largest decline (10% drop in egg prices).  
-- **March–May:** Gradual increase driven by fruits and vegetables.  
+### ✅ Objective 3: Month-on-Month Food Inflation (June 2022 – May 2023)
+- **June 2022:** Highest spike (eggs & vegetables).
+- **July–August:** Sharp drop due to falling meat, fish, and oil prices.
+- **Oct–Dec:** Continued decline, especially in vegetables and oils.
+- **Feb 2023:** Largest drop (10% decline in egg prices).
+- **Mar–May:** Gradual increase led by fruits and vegetables.
 
-### Objective 4: Impact of COVID-19 on Key Categories
-- **Food inflation** spiked due to supply chain bottlenecks and increased demand.  
-- **Healthcare inflation** surged in 2021.  
-- **Essential services** rose later in 2021 as demand normalized post-lockdown.  
+### ✅ Objective 4: COVID-19 Impact on Key Categories
+- **Food inflation** remained high due to supply chain bottlenecks.
+- **Healthcare inflation** surged in 2021.
+- **Essential services** rose post-lockdown as demand normalized.
 
-### Objective 5: Correlation Between CPI Categories and Crude Oil Prices
-- **Strong positive correlation:** Pulses, housing, cereals, spices.  
-- **Negative correlation:** Fruits, oils & fats, meat & fish.  
-
----
-
-## Tools & Techniques
-- **Excel:** Data cleaning, transformation, visualization, statistical analysis  
-- **Moving average imputation:** For missing values in time-series data  
-- **Charts & Graphs:** Line charts, bar charts, and correlation visualizations  
+### ✅ Objective 5: CPI–Crude Oil Correlation
+- **Strong positive correlation:** Pulses, housing, cereals, spices.
+- **Negative correlation:** Fruits, oils & fats, meat & fish—likely due to localized supply chains.
 
 ---
 
-## Conclusion
-This case study highlights how inflation varies **across categories and time**, and how external factors like **COVID-19** and **crude oil prices** influence consumer pricing dynamics. Insights generated are essential for **economic planning, forecasting, and business decision-making**.  
+## 🛠️ Tools & Techniques
+
+- **Excel:** Data cleaning, transformation, visualization, statistical analysis.
+- **Moving average imputation:** For handling missing time-series values.
+- **Visuals:** Line charts, bar graphs, and correlation plots.
+
+---
+
+## 🔍 Conclusion
+
+This case study reveals how inflation dynamics vary across categories and time, shaped by external shocks like **COVID-19** and **crude oil volatility**. The insights generated are valuable for **economic forecasting, strategic planning, and policy formulation**.
+
+---
