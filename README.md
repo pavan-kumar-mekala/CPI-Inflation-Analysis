@@ -1,4 +1,4 @@
-# CPI-Based Inflation Analysis
+# CPI- Inflation Analysis
 
 An in-depth analysis of Consumer Price Index (CPI) and food inflation trends in India (2018–2023), focusing on COVID-19 disruptions and correlations with global crude oil prices.
 
